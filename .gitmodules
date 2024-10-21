@@ -1,0 +1,123 @@
+[submodule "Teradata"]
+	path = Teradata
+	url = git@github.com:hackolade/Teradata.git
+[submodule "Avro"]
+	path = Avro
+	url = git@github.com:hackolade/Avro.git
+[submodule "BigQuery"]
+	path = BigQuery
+	url = git@github.com:hackolade/BigQuery.git
+[submodule "Cassandra"]
+	path = Cassandra
+	url = git@github.com:hackolade/Cassandra.git
+[submodule "CockroachDB"]
+	path = CockroachDB
+	url = git@github.com:hackolade/CockroachDB.git
+[submodule "CosmosDB-with-Gremlin-API"]
+	path = CosmosDB-with-Gremlin-API
+	url = git@github.com:hackolade/CosmosDB-with-Gremlin-API.git
+[submodule "CosmosDB-with-Mongo-API"]
+	path = CosmosDB-with-Mongo-API
+	url = git@github.com:hackolade/CosmosDB-with-Mongo-API.git
+[submodule "CosmosDB-with-SQL-API"]
+	path = CosmosDB-with-SQL-API
+	url = git@github.com:hackolade/CosmosDB-with-SQL-API.git
+[submodule "CouchbaseV7Plus"]
+	path = CouchbaseV7Plus
+	url = git@github.com:hackolade/CouchbaseV7Plus.git
+[submodule "Db2"]
+	path = Db2
+	url = git@github.com:hackolade/Db2.git
+[submodule "DeltaLake"]
+	path = DeltaLake
+	url = git@github.com:hackolade/DeltaLake.git
+[submodule "DocumentDB"]
+	path = DocumentDB
+	url = git@github.com:hackolade/DocumentDB.git
+[submodule "Elasticsearch"]
+	path = Elasticsearch
+	url = git@github.com:hackolade/Elasticsearch.git
+[submodule "ElasticsearchV7plus"]
+	path = ElasticsearchV7plus
+	url = git@github.com:hackolade/ElasticsearchV7plus.git
+[submodule "EventBridge"]
+	path = EventBridge
+	url = git@github.com:hackolade/EventBridge.git
+[submodule "Firebase"]
+	path = Firebase
+	url = git@github.com:hackolade/Firebase.git
+[submodule "Firestore"]
+	path = Firestore
+	url = git@github.com:hackolade/Firestore.git
+[submodule "glue"]
+	path = glue
+	url = git@github.com:hackolade/glue.git
+[submodule "HBase"]
+	path = HBase
+	url = git@github.com:hackolade/HBase.git
+[submodule "Hive"]
+	path = Hive
+	url = git@github.com:hackolade/Hive.git
+[submodule "JanusGraph"]
+	path = JanusGraph
+	url = git@github.com:hackolade/JanusGraph.git
+[submodule "Joi"]
+	path = Joi
+	url = git@github.com:Qwin/Joi.git
+[submodule "MariaDB"]
+	path = MariaDB
+	url = git@github.com:hackolade/MariaDB.git
+[submodule "MarkLogic"]
+	path = MarkLogic
+	url = git@github.com:hackolade/MarkLogic.git
+[submodule "MySQL"]
+	path = MySQL
+	url = git@github.com:hackolade/MySQL.git
+[submodule "neo4j"]
+	path = neo4j
+	url = git@github.com:hackolade/neo4j.git
+[submodule "neptune-gremlin"]
+	path = neptune-gremlin
+	url = git@github.com:hackolade/neptune-gremlin.git
+[submodule "OpenAPI"]
+	path = OpenAPI
+	url = git@github.com:hackolade/OpenAPI.git
+[submodule "Oracle"]
+	path = Oracle
+	url = git@github.com:hackolade/Oracle.git
+[submodule "Parquet"]
+	path = Parquet
+	url = git@github.com:hackolade/Parquet.git
+[submodule "PostgreSQL"]
+	path = PostgreSQL
+	url = git@github.com:hackolade/PostgreSQL.git
+[submodule "Protobuf"]
+	path = Protobuf
+	url = git@github.com:hackolade/Protobuf.git
+[submodule "Redshift"]
+	path = Redshift
+	url = git@github.com:hackolade/Redshift.git
+[submodule "SQLServer"]
+	path = SQLServer
+	url = git@github.com:hackolade/SQLServer.git
+[submodule "ScyllaDB"]
+	path = ScyllaDB
+	url = git@github.com:hackolade/ScyllaDB.git
+[submodule "Snowflake"]
+	path = Snowflake
+	url = git@github.com:hackolade/Snowflake.git
+[submodule "Swagger"]
+	path = Swagger
+	url = git@github.com:hackolade/Swagger.git
+[submodule "Synapse"]
+	path = Synapse
+	url = git@github.com:hackolade/Synapse.git
+[submodule "tinkerpop"]
+	path = tinkerpop
+	url = git@github.com:hackolade/tinkerpop.git
+[submodule "YugabyteDB-YSQL"]
+	path = YugabyteDB-YSQL
+	url = git@github.com:hackolade/YugabyteDB-YSQL.git
+[submodule "ArangoDB"]
+	path = ArangoDB
+	url = git@github.com:hackolade/ArangoDB.git
